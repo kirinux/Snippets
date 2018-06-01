@@ -33,3 +33,4 @@ out
 gen
 !/validation/.gitignore
 /validation/validation.iml
+/design-patterns/design-patterns.iml
